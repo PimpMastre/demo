@@ -1,6 +1,8 @@
 {
-  "posts": 
+  {"adventures":[ 
+       { "id": 2, "name": "Post 2", "category": "Post 2" },
        { "id": 3, "name": "Post 3", "category": "Post 3" }
+    ]}
   ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
