@@ -1,5 +1,5 @@
 {
-  "posts":[ 
+  "adventures":[ 
        { "id": 2, "name": "Post 2", "category": "Post 2" },
        { "id": 3, "name": "Post 5", "category": "Post 5" }
     ]
